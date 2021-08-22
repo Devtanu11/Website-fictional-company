@@ -30,7 +30,7 @@ After logged out a success message will appear in screen .And if you want to con
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/84495822/130358499-3dc334ae-916c-438c-9b31-2b6cf56cd6b4.png)
 
-Our Blogs only for logged in users
+# Our Blogs only for logged in users
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/84495822/130358545-98d4cba7-5588-4452-80c8-b8ae7c859bb5.png)
 
